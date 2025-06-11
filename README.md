@@ -3,7 +3,6 @@
 My configuration file for CSGO
 
 1. Edit configuration via ``autoexec.cfg'' in the path: D:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg 
-C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
 2. Navigate to your Steam library.
 3. Right click ‘Counter-Strike: Global Offensive’.
